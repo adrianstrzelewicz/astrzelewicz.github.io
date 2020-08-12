@@ -5,7 +5,7 @@ const RESOURCES = {
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "/manifest.json": "782e5d7e2ae16a67ce38cdf0d6c8bc96",
-"/main.dart.js": "7e6db45e6f1f1c52c188e381b7c14519",
+"/main.dart.js": "6b16642cbbca63a54d828735769492d0",
 "/index.html": "41bdd1a42a27c226936205ea669ed351",
 "/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "6a2ddad1092a0a1c326b6d0e738e682b",
